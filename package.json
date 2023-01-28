@@ -2,12 +2,21 @@
   "name": "unicodepreview",
   "displayName": "UnicodePreview",
   "description": "Preview unicode string",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "publisher": "WeinanShi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swnhieian/unicodepreview"
+  },
+  "icon": "images/icon.jpg",
   "engines": {
     "vscode": "^1.74.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "Unicode"
   ],
   "activationEvents": [
     "onCommand:unicodepreview.enable",
