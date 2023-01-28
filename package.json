@@ -1,7 +1,7 @@
 {
   "name": "unicodepreview",
   "displayName": "UnicodePreview",
-  "description": "Preview & convert unicode string",
+  "description": "Preview unicode string",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
